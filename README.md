@@ -3,7 +3,7 @@
 **Solved.ac**
 
 [![Solved.ac
-프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=k1miso)](https://solved.ac/chojl1125)
+프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=chojl1125)](https://solved.ac/chojl1125)
 
 <!--
 **chojl1125/chojl1125** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
